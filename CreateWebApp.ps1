@@ -1,0 +1,1 @@
+New-AzureRmResourceGroup -Name "NicksWebAppPS" -Location "West US 2"
