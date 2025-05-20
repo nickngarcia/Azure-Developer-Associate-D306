@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ee2a7f7a-d6fd-4da7-a14f-a1ba5d367494/resourceGroups/NicksWebAppRG/providers/Microsoft.Web/sites/NicksWebApp",
+    "appService.deploySubpath": "Webapp Code"
+}
