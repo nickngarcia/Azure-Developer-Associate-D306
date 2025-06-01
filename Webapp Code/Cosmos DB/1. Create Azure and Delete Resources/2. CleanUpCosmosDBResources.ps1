@@ -1,0 +1,1 @@
+az group delete --name az204-cosmos-rg --no-wait
